@@ -11,7 +11,7 @@ Passionate about the world of code, I'm on a journey to explore the realms of so
 
 📫 **Let's Connect:**
 
-<img align="right" alt="Cpp" width="40px" src="https://skillicons.dev/icons?i=cpp" />
+<img align="right" alt="Cpp" width="40px" src="https://skillicons.dev/icons?i=go" />
 <img align="right" alt="Java" width="40px" src="https://skillicons.dev/icons?i=java" />
 <img align="right" alt="Python" width="40px" src="https://skillicons.dev/icons?i=py" />
 <img align="right" alt="Typescript" width="40px" src="https://skillicons.dev/icons?i=ts" />
